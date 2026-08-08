@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-🎓 Master's student in **Innovative Information Systems** at **Université Toulouse Capitole, France**
+🎓 Master's student in **MIAGE Innovative Information Systems** at **Université Toulouse Capitole, France**
 
 🌍 Completed an Erasmus+ exchange semester at Università degli Studi di Milano (UNIMI), Italy, focusing on Artificial Intelligence & Human-Centered AI
 
