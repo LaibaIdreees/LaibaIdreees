@@ -220,8 +220,8 @@ Projects involving web, mobile and backend development.
 
 ## 📫 Connect With Me
 
-* 💻 GitHub: [github.com/LaibaIdreees]((https://github.com/LaibaIdreees))
-* 💼 LinkedIn: ((https://www.linkedin.com/in/laiba-idrees-a74b3225a/))
+* 💻 GitHub: (https://github.com/LaibaIdreees)
+* 💼 LinkedIn: (https://www.linkedin.com/in/laiba-idrees-a74b3225a/)
 * 📧 Email: 12laibaidrees@gmail.com
 
 ---
